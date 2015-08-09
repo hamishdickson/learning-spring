@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20653402-94ed-41dc-96c6-5e3893cd436d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/LearningSpring/com/github/hamishdickson/timesheet/domain/Employee.java" afterPath="$PROJECT_DIR$/src/main/java/LearningSpring/com/github/hamishdickson/timesheet/domain/Employee.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/LearningSpring/com/github/hamishdickson/timesheet/domain/Manager.java" afterPath="$PROJECT_DIR$/src/main/java/LearningSpring/com/github/hamishdickson/timesheet/domain/Manager.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/LearningSpring/com/github/hamishdickson/timesheet/domain/Timesheet.java" afterPath="$PROJECT_DIR$/src/main/java/LearningSpring/com/github/hamishdickson/timesheet/domain/Timesheet.java" />
     </list>
     <ignored path="learning-spring.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -37,10 +35,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Employee.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Employee.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/LearningSpring/com/github/hamishdickson/timesheet/domain/Employee.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7410359">
+            <state vertical-scroll-proportion="0.0">
               <caret line="71" column="18" selection-start-line="71" selection-start-column="18" selection-end-line="71" selection-end-column="18" />
               <folding>
                 <element signature="e#562#563#0" expanded="true" />
@@ -172,20 +170,30 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Timesheet.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Timesheet.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/LearningSpring/com/github/hamishdickson/timesheet/domain/Timesheet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="38" column="18" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
+            <state vertical-scroll-proportion="0.8804781">
+              <caret line="81" column="37" selection-start-line="81" selection-start-column="37" selection-end-line="81" selection-end-column="37" />
               <folding>
-                <element signature="e#346#347#0" expanded="true" />
-                <element signature="e#372#373#0" expanded="true" />
-                <element signature="e#401#402#0" expanded="true" />
-                <element signature="e#428#429#0" expanded="true" />
-                <element signature="e#461#462#0" expanded="true" />
-                <element signature="e#489#490#0" expanded="true" />
-                <element signature="e#605#606#0" expanded="true" />
-                <element signature="e#639#640#0" expanded="true" />
+                <element signature="e#627#628#0" expanded="true" />
+                <element signature="e#652#653#0" expanded="true" />
+                <element signature="e#684#685#0" expanded="true" />
+                <element signature="e#710#711#0" expanded="true" />
+                <element signature="e#739#740#0" expanded="true" />
+                <element signature="e#766#767#0" expanded="true" />
+                <element signature="e#799#800#0" expanded="true" />
+                <element signature="e#827#828#0" expanded="true" />
+                <element signature="e#861#862#0" expanded="true" />
+                <element signature="e#889#890#0" expanded="true" />
+                <element signature="e#929#930#0" expanded="true" />
+                <element signature="e#959#960#0" expanded="true" />
+                <element signature="e#997#998#0" expanded="true" />
+                <element signature="e#1029#1030#0" expanded="true" />
+                <element signature="e#1072#1073#0" expanded="true" />
+                <element signature="e#1106#1107#0" expanded="true" />
+                <element signature="e#1222#1223#0" expanded="true" />
+                <element signature="e#1256#1257#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -228,6 +236,7 @@
         <option value="$PROJECT_DIR$/src/main/java/LearningSpring/com/github/hamishdickson/timesheet/domain/README.md" />
         <option value="$PROJECT_DIR$/src/main/java/LearningSpring/com/github/hamishdickson/timesheet/domain/Manager.java" />
         <option value="$PROJECT_DIR$/src/main/java/LearningSpring/com/github/hamishdickson/timesheet/domain/Employee.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LearningSpring/com/github/hamishdickson/timesheet/domain/Timesheet.java" />
       </list>
     </option>
   </component>
@@ -534,7 +543,7 @@
     <property name="FullScreen" value="false" />
     <property name="OverrideImplement.combined" value="true" />
     <property name="OverrideImplement.overriding.sorted" value="false" />
-    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/hamishdickson/Programming/learning-spring/src/main/java/LearningSpring/com/github/hamishdickson/timesheet/domain/Employee.java&#10;man&#9;FILE&#9;file:///Users/hamishdickson/Programming/learning-spring/src/main/java/LearningSpring/com/github/hamishdickson/timesheet/domain/Manager.java&#10;em&#9;FILE&#9;file:///Users/hamishdickson/Programming/learning-spring/src/main/java/LearningSpring/com/github/hamishdickson/timesheet/domain/Employee.java&#10;p&#9;FILE&#9;file:///Users/hamishdickson/Programming/learning-spring/pom.xml&#10;po&#9;FILE&#9;file:///Users/hamishdickson/Programming/learning-spring/pom.xml" />
+    <property name="SearchEverywhereHistoryKey" value="tim&#9;FILE&#9;file:///Users/hamishdickson/Programming/learning-spring/src/main/java/LearningSpring/com/github/hamishdickson/timesheet/domain/Timesheet.java&#10;man&#9;FILE&#9;file:///Users/hamishdickson/Programming/learning-spring/src/main/java/LearningSpring/com/github/hamishdickson/timesheet/domain/Manager.java&#10;em&#9;FILE&#9;file:///Users/hamishdickson/Programming/learning-spring/src/main/java/LearningSpring/com/github/hamishdickson/timesheet/domain/Employee.java&#10;p&#9;FILE&#9;file:///Users/hamishdickson/Programming/learning-spring/pom.xml&#10;po&#9;FILE&#9;file:///Users/hamishdickson/Programming/learning-spring/pom.xml" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit3" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="false" />
     <property name="recentsLimit" value="5" />
@@ -971,23 +980,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/LearningSpring/com/github/hamishdickson/timesheet/domain/Timesheet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="38" column="18" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
-          <folding>
-            <element signature="e#346#347#0" expanded="true" />
-            <element signature="e#372#373#0" expanded="true" />
-            <element signature="e#401#402#0" expanded="true" />
-            <element signature="e#428#429#0" expanded="true" />
-            <element signature="e#461#462#0" expanded="true" />
-            <element signature="e#489#490#0" expanded="true" />
-            <element signature="e#605#606#0" expanded="true" />
-            <element signature="e#639#640#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/LearningSpring/com/github/hamishdickson/timesheet/service/GenericDao.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1075,7 +1067,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/LearningSpring/com/github/hamishdickson/timesheet/domain/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7410359">
+        <state vertical-scroll-proportion="0.0">
           <caret line="71" column="18" selection-start-line="71" selection-start-column="18" selection-end-line="71" selection-end-column="18" />
           <folding>
             <element signature="e#562#563#0" expanded="true" />
@@ -1090,6 +1082,33 @@
             <element signature="e#845#846#0" expanded="true" />
             <element signature="e#897#898#0" expanded="true" />
             <element signature="e#941#942#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LearningSpring/com/github/hamishdickson/timesheet/domain/Timesheet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8804781">
+          <caret line="81" column="37" selection-start-line="81" selection-start-column="37" selection-end-line="81" selection-end-column="37" />
+          <folding>
+            <element signature="e#627#628#0" expanded="true" />
+            <element signature="e#652#653#0" expanded="true" />
+            <element signature="e#684#685#0" expanded="true" />
+            <element signature="e#710#711#0" expanded="true" />
+            <element signature="e#739#740#0" expanded="true" />
+            <element signature="e#766#767#0" expanded="true" />
+            <element signature="e#799#800#0" expanded="true" />
+            <element signature="e#827#828#0" expanded="true" />
+            <element signature="e#861#862#0" expanded="true" />
+            <element signature="e#889#890#0" expanded="true" />
+            <element signature="e#929#930#0" expanded="true" />
+            <element signature="e#959#960#0" expanded="true" />
+            <element signature="e#997#998#0" expanded="true" />
+            <element signature="e#1029#1030#0" expanded="true" />
+            <element signature="e#1072#1073#0" expanded="true" />
+            <element signature="e#1106#1107#0" expanded="true" />
+            <element signature="e#1222#1223#0" expanded="true" />
+            <element signature="e#1256#1257#0" expanded="true" />
           </folding>
         </state>
       </provider>
