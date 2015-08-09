@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20653402-94ed-41dc-96c6-5e3893cd436d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/LearningSpring/com/github/hamishdickson/timesheet/service/TimesheetService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learning-spring.iml" afterPath="$PROJECT_DIR$/learning-spring.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="learning-spring.iws" />
@@ -26,11 +27,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.82071716">
+              <caret line="70" column="17" selection-start-line="70" selection-start-column="17" selection-end-line="70" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -106,10 +107,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TimesheetService.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TimesheetService.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/LearningSpring/com/github/hamishdickson/timesheet/service/TimesheetService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.55776894">
+            <state vertical-scroll-proportion="0.0">
               <caret line="28" column="48" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -205,10 +206,10 @@
         <option value="$PROJECT_DIR$/src/main/java/LearningSpring/com/github/hamishdickson/timesheet/Timesheet.java" />
         <option value="$PROJECT_DIR$/src/main/java/LearningSpring/com/github/hamishdickson/timesheet/domain/Employee.java" />
         <option value="$PROJECT_DIR$/src/main/java/LearningSpring/com/github/hamishdickson/timesheet/service/GenericDao.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/LearningSpring/com/github/hamishdickson/timesheet/service/impl/InMemoryDao.java" />
         <option value="$PROJECT_DIR$/src/test/java/LearningSpring/com/github/hamishdickson/timesheet/service/impl/EmployeeDaoTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/LearningSpring/com/github/hamishdickson/timesheet/service/TimesheetService.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -515,7 +516,7 @@
     <property name="FullScreen" value="false" />
     <property name="OverrideImplement.combined" value="true" />
     <property name="OverrideImplement.overriding.sorted" value="false" />
-    <property name="SearchEverywhereHistoryKey" value="po&#9;FILE&#9;file:///Users/hamishdickson/Programming/learning-spring/pom.xml" />
+    <property name="SearchEverywhereHistoryKey" value="p&#9;FILE&#9;file:///Users/hamishdickson/Programming/learning-spring/pom.xml&#10;po&#9;FILE&#9;file:///Users/hamishdickson/Programming/learning-spring/pom.xml" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit3" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="false" />
     <property name="recentsLimit" value="5" />
@@ -1002,14 +1003,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/LearningSpring/com/github/hamishdickson/timesheet/service/impl/InMemoryDao.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1041,11 +1034,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/LearningSpring/com/github/hamishdickson/timesheet/service/TimesheetService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.55776894">
+        <state vertical-scroll-proportion="0.0">
           <caret line="28" column="48" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.82071716">
+          <caret line="70" column="17" selection-start-line="70" selection-start-column="17" selection-end-line="70" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>
