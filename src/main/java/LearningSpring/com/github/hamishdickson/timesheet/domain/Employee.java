@@ -67,4 +67,13 @@ public class Employee {
         result = 31 * result + (department != null ? department.hashCode() : 0);
         return result;
     }
+
+    @Override
+    public String toString() {
+        return "Employee{" +
+                "id=" + id +
+                ", name='" + name + '\'' +
+                ", department='" + department + '\'' +
+                '}';
+    }
 }

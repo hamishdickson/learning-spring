@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20653402-94ed-41dc-96c6-5e3893cd436d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/LearningSpring/com/github/hamishdickson/timesheet/domain/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/LearningSpring/com/github/hamishdickson/timesheet/domain/Employee.java" afterPath="$PROJECT_DIR$/src/main/java/LearningSpring/com/github/hamishdickson/timesheet/domain/Employee.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/LearningSpring/com/github/hamishdickson/timesheet/domain/Manager.java" afterPath="$PROJECT_DIR$/src/main/java/LearningSpring/com/github/hamishdickson/timesheet/domain/Manager.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="learning-spring.iws" />
@@ -40,8 +40,8 @@
       <file leaf-file-name="Employee.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/LearningSpring/com/github/hamishdickson/timesheet/domain/Employee.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8605578">
-              <caret line="50" column="37" selection-start-line="50" selection-start-column="37" selection-end-line="50" selection-end-column="37" />
+            <state vertical-scroll-proportion="0.7410359">
+              <caret line="71" column="18" selection-start-line="71" selection-start-column="18" selection-end-line="71" selection-end-column="18" />
               <folding>
                 <element signature="e#562#563#0" expanded="true" />
                 <element signature="e#589#590#0" expanded="true" />
@@ -132,11 +132,18 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/LearningSpring/com/github/hamishdickson/timesheet/domain/Manager.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+              <caret line="57" column="18" selection-start-line="57" selection-start-column="18" selection-end-line="57" selection-end-column="18" />
               <folding>
-                <element signature="e#148#149#0" expanded="true" />
-                <element signature="e#180#181#0" expanded="true" />
-                <element signature="e#238#239#0" expanded="true" />
+                <element signature="e#297#298#0" expanded="true" />
+                <element signature="e#329#330#0" expanded="true" />
+                <element signature="e#390#391#0" expanded="true" />
+                <element signature="e#417#418#0" expanded="true" />
+                <element signature="e#444#445#0" expanded="true" />
+                <element signature="e#469#470#0" expanded="true" />
+                <element signature="e#503#504#0" expanded="true" />
+                <element signature="e#531#532#0" expanded="true" />
+                <element signature="e#571#572#0" expanded="true" />
+                <element signature="e#603#604#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -219,6 +226,7 @@
         <option value="$PROJECT_DIR$/src/main/java/LearningSpring/com/github/hamishdickson/timesheet/service/TimesheetService.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/LearningSpring/com/github/hamishdickson/timesheet/domain/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/LearningSpring/com/github/hamishdickson/timesheet/domain/Manager.java" />
         <option value="$PROJECT_DIR$/src/main/java/LearningSpring/com/github/hamishdickson/timesheet/domain/Employee.java" />
       </list>
     </option>
@@ -526,7 +534,7 @@
     <property name="FullScreen" value="false" />
     <property name="OverrideImplement.combined" value="true" />
     <property name="OverrideImplement.overriding.sorted" value="false" />
-    <property name="SearchEverywhereHistoryKey" value="em&#9;FILE&#9;file:///Users/hamishdickson/Programming/learning-spring/src/main/java/LearningSpring/com/github/hamishdickson/timesheet/domain/Employee.java&#10;p&#9;FILE&#9;file:///Users/hamishdickson/Programming/learning-spring/pom.xml&#10;po&#9;FILE&#9;file:///Users/hamishdickson/Programming/learning-spring/pom.xml" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/hamishdickson/Programming/learning-spring/src/main/java/LearningSpring/com/github/hamishdickson/timesheet/domain/Employee.java&#10;man&#9;FILE&#9;file:///Users/hamishdickson/Programming/learning-spring/src/main/java/LearningSpring/com/github/hamishdickson/timesheet/domain/Manager.java&#10;em&#9;FILE&#9;file:///Users/hamishdickson/Programming/learning-spring/src/main/java/LearningSpring/com/github/hamishdickson/timesheet/domain/Employee.java&#10;p&#9;FILE&#9;file:///Users/hamishdickson/Programming/learning-spring/pom.xml&#10;po&#9;FILE&#9;file:///Users/hamishdickson/Programming/learning-spring/pom.xml" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit3" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="false" />
     <property name="recentsLimit" value="5" />
@@ -942,18 +950,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/LearningSpring/com/github/hamishdickson/timesheet/domain/Manager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-          <folding>
-            <element signature="e#148#149#0" expanded="true" />
-            <element signature="e#180#181#0" expanded="true" />
-            <element signature="e#238#239#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/LearningSpring/com/github/hamishdickson/timesheet/domain/Task.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1058,10 +1054,29 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LearningSpring/com/github/hamishdickson/timesheet/domain/Manager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="57" column="18" selection-start-line="57" selection-start-column="18" selection-end-line="57" selection-end-column="18" />
+          <folding>
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#329#330#0" expanded="true" />
+            <element signature="e#390#391#0" expanded="true" />
+            <element signature="e#417#418#0" expanded="true" />
+            <element signature="e#444#445#0" expanded="true" />
+            <element signature="e#469#470#0" expanded="true" />
+            <element signature="e#503#504#0" expanded="true" />
+            <element signature="e#531#532#0" expanded="true" />
+            <element signature="e#571#572#0" expanded="true" />
+            <element signature="e#603#604#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/LearningSpring/com/github/hamishdickson/timesheet/domain/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8605578">
-          <caret line="50" column="37" selection-start-line="50" selection-start-column="37" selection-end-line="50" selection-end-column="37" />
+        <state vertical-scroll-proportion="0.7410359">
+          <caret line="71" column="18" selection-start-line="71" selection-start-column="18" selection-end-line="71" selection-end-column="18" />
           <folding>
             <element signature="e#562#563#0" expanded="true" />
             <element signature="e#589#590#0" expanded="true" />
