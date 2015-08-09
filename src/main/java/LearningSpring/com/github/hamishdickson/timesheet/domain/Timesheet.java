@@ -1,4 +1,4 @@
-package LearningSpring.com.github.hamishdickson.timesheet;
+package LearningSpring.com.github.hamishdickson.timesheet.domain;
 
 public class Timesheet {
     private Employee who;

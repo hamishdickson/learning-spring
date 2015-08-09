@@ -1,4 +1,4 @@
-package LearningSpring.com.github.hamishdickson.timesheet;
+package LearningSpring.com.github.hamishdickson.timesheet.domain;
 
 import java.util.ArrayList;
 import java.util.Arrays;
